@@ -66,3 +66,14 @@ a:hover{
     font-size: x-large;  
     font-family: Arial, Helvetica, sans-serif;   
 }
+
+
+.social-icon{     
+    height: 22px;  
+  }
+  
+  .social-icon,.social-link{
+     margin-top: 60px;
+    
+  }
+  
